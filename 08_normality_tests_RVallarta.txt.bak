@@ -1,0 +1,3 @@
+
+La prueba de Shapiro-Wlk está diseñada específicamente para conjuntos de datos que poseen una distribución normal con muestras chicas o medianas.
+Mientras que la prueba de Kolmogorov-Smirnov compara la distribución empírica de los datos con distribuciones específicas teóricas. Esta prueba es mejor para tamaños de muestra más grandes
